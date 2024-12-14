@@ -99,7 +99,7 @@
     "react-test-renderer": "^18.2.0",
     "serve": "^14.2.1",
     "style-loader": "^3.3.1",
-    "webpack": "^5.89.0",
+    "webpack": "^5.94.0",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1",
     "xmlhttprequest": "^1.8.0"
